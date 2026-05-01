@@ -27,11 +27,9 @@ The project replicates the workflow of a modern UAV R&D team and was developed a
 
 ## Demo
 
-> Add your screenshots to a `screenshots/` folder in this repo after uploading.
-
 | Mission Flight | Obstacle Detection | Vision Landing |
 |---|---|---|
-| ![Mission](![alt text](image-2.png)) | ![Obstacle](![alt text](image.png)) | ![Landing](![alt text](image-1.png)) |
+| ![Mission](6_Simulation/mission_terminal.png) | ![Obstacle](6_Simulation/Obstacle_Avoidance_Run.png) | ![Landing](6_Simulation/Vision_Landing_Run.png) |
 
 ---
 
